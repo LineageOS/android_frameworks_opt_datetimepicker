@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da85f559_94086a2a",
+        "filename": "res/values-ia-rES/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-09T09:38:54Z",
+      "side": 1,
+      "message": "Whitespace error",
+      "revId": "95990fb78b702f275c42c4cf8d8b1a04e20ee8ce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da85f559_b40d6e39",
+        "filename": "res/values-ia-rES/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-09T09:38:54Z",
+      "side": 1,
+      "message": "This whiteline can go away",
+      "revId": "95990fb78b702f275c42c4cf8d8b1a04e20ee8ce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da85f559_5413e25c",
+        "filename": "res/values-ia-rES/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-09T09:38:54Z",
+      "side": 1,
+      "message": "\u003cresources xmlns:xliff\u003d\"urn:oasis:names:tc:xliff:document:1.2\"\u003e",
+      "revId": "95990fb78b702f275c42c4cf8d8b1a04e20ee8ce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da85f559_7410664f",
+        "filename": "res/values-ia-rES/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-09T09:38:54Z",
+      "side": 1,
+      "message": "You have two options:\n- \"Llista d\u0027años\"\n- Llista d\\\u0027años\n\nI\u0027d prefer to remove the surrounding double quotes and msgids everywhere.",
+      "revId": "95990fb78b702f275c42c4cf8d8b1a04e20ee8ce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
