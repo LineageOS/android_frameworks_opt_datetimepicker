@@ -16,6 +16,24 @@
       "revId": "6179860776f58d1fbb0daff8f76ea6b9adad7c3f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_2e234207",
+        "filename": "src/com/android/datetimepicker/date/MonthView.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2014-12-12T09:55:49Z",
+      "side": 1,
+      "message": "oops .. they were static at one point , and I changed them to instance vars. Forgot to rename.",
+      "parentUuid": "9abb7d3a_2e3ce22e",
+      "revId": "6179860776f58d1fbb0daff8f76ea6b9adad7c3f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
