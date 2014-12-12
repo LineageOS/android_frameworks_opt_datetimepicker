@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_d14cd778",
+        "filename": "src/com/android/datetimepicker/date/MonthView.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 374,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-12-12T12:05:27Z",
+      "side": 1,
+      "message": "Could be a switch/case statement here.",
+      "revId": "553e5e66323a7a0a181567d8abf2a3e7b3d3aa64",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
