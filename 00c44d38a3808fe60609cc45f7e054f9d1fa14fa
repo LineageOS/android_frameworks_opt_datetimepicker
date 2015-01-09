@@ -16,6 +16,24 @@
       "revId": "00c44d38a3808fe60609cc45f7e054f9d1fa14fa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_f518aa86",
+        "filename": "src/com/android/datetimepicker/Utils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-01-09T12:31:59Z",
+      "side": 1,
+      "message": "they are functionally the same .. TextUtils returns a layout int from View class and this jst returns a boolean",
+      "parentUuid": "7aa08908_b5abc21c",
+      "revId": "00c44d38a3808fe60609cc45f7e054f9d1fa14fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
